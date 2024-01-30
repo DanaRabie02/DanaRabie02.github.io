@@ -1,0 +1,32 @@
+/* Existing styles remain unchanged */
+
+.intro {
+    margin-top: 10px;
+}
+
+.additional-info {
+    color: #007BFF;
+    font-style: italic;
+}
+
+.bottom-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+.skills {
+    text-align: center;
+}
+
+.skills h2 {
+    color: #007BFF;
+}
+
+.skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills li {
+    margin: 10px 0;
+}
